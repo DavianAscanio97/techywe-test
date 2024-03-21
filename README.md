@@ -15,6 +15,8 @@ Asegúrate de tener instalado Node.js en tu máquina. Puedes descargarlo [aquí]
 
 1. Clona este repositorio en tu máquina local:
 
+-> git clone https://github.com/DavianAscanio97/techywe-test.git
+
 2. Accede al directorio del proyecto:
 
 3. Verifica la versión de NODE
