@@ -17,7 +17,11 @@ Asegúrate de tener instalado Node.js en tu máquina. Puedes descargarlo [aquí]
 
 2. Accede al directorio del proyecto:
 
-3. Instala las dependencias del proyecto:
+3. Verifica la versión de NODE
+
+-> v18.13.0
+
+4. Instala las dependencias del proyecto:
 
 -> npm i
 
